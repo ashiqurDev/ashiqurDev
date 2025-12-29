@@ -76,7 +76,7 @@ I enjoy working across the stack — from crafting clean APIs to building modern
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/ashiq](https://www.linkedin.com/in/mdashiqurrahman1102/)
+- 💼 LinkedIn: [Md. Ashiqur Rahman](https://www.linkedin.com/in/mdashiqurrahman1102/)
 - 🧑‍💻 GitHub: https://github.com/ashiqurDev
 - ✉️ Email: ashiqur.rahman.dev@gmail.com
 
