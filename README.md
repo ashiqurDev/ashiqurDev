@@ -55,20 +55,7 @@ I enjoy working across the stack — from crafting clean APIs to building modern
 ### 🧰 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-## 📌 Featured Projects
-
-🔹 **Mini CRM Dashboard**  
-- React, Node.js, PostgreSQL, Docker  
-
-🔹 **Medical Appointment System**  
-- Next.js, RTK Query, Express  
-
-🔹 **Tender Preparation Platform (AI Assisted)**  
-- Document intelligence & workflow automation  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) 
 
 ---
 
@@ -89,8 +76,8 @@ I enjoy working across the stack — from crafting clean APIs to building modern
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: [https://www.linkedin.com/ashiq](https://www.linkedin.com/in/mdashiqurrahman1102/)
+- 🧑‍💻 GitHub: https://github.com/ashiqurDev
 - ✉️ Email: ashiqur.rahman.dev@gmail.com
 
 ---
