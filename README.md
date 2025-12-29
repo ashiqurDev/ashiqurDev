@@ -8,11 +8,12 @@
 
 ## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiqurDev&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiqurDev&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiqurdev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiqurDev&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqurDev&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqurDev&layout=compact&hide_border=true)
+
 
 ---
 
